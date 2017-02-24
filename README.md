@@ -1,23 +1,55 @@
-# Codinfox-Lanyon
+# jekyll-theme-EasyBook
 
-This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
+Another Jekyll Blog Theme "EasyBook"
 
-**If you like this project, PLEASE give it a star.**
+Start blogging with a simple but powerful theme.
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+## Features
 
-All the configurations are inside either `_config.yml` or `_config.scss`. The options are fairly straightforward. 
+- Everything Basic Jekyll has.
+- **Pagination** is enabled.
+- **Comments** using Disqus or 多说.
+- **TOC** makes reading easier.
+- **Profile** including your links and avatar on the sidebar.
+- *And more...*
 
-The theme supports: 
+## Install
 
-1. Theme colors: you can choose your favorite theme color
-2. Changable sidebar locations
-3. Integration of FontAwesome, MathJax, Disqus and Google Analytics
-4. and numerous improvements over original Lanyon
+Read [Quick Guide] to learn how to install and publish.
 
+Read [Welcome to Jekyll and EasyBook][helloPost] and [Jekyll][jekyll] for further information.
+
+**If need help, please:**
+
+ - [**Read Wiki pages**](https://github.com/laobubu/jekyll-theme-EasyBook/wiki)
+ - **Google it**
+ - [**Submit an issue**](https://github.com/laobubu/jekyll-theme-EasyBook/issues/new)
+
+## Donate
+
+Buy me a coffee if you find EasyBook useful for you :smiley:
+
+Visit <http://laobubu.net/donate.html>
+
+## Demo
+
+[laobubu's blog](http://blog.laobubu.net) | [empty site](http://laobubu.github.io/jekyll-theme-EasyBook)
+
+![Homepage](https://ooo.0o0.ooo/2016/02/11/56bc997c65daf.png)
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
+```
+The MIT License (MIT)
+Copyright (c) 2016 laobubu
 
-<3
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
+[Quick Guide]: https://github.com/laobubu/jekyll-theme-EasyBook/wiki/Quick-Guide
+[helloPost]: http://laobubu.github.io/jekyll-theme-EasyBook/archivers/hello
+[jekyll]: http://jekyllrb.com/
