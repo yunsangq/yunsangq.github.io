@@ -1,37 +1,69 @@
-# Site settings
-title: rookieyun
-url: "http://yunsangq.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
-#timezone: Asia/Chongqing
-description: >
-  One or more sentences introducing this blog.
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: rookieyun의 개발 블로그
+email: yunsangq@gmail.com
+description: test.
+url: https://yunsangq.github.io/
 
-# Your information
-email: yunsangq@google.com
-author: rookieyun
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
-#twitter_username: twitter_username
-github_username:  yunsangq
 
-# Comment Service (Disqus or 多说)
-#  choose one and un-comment the line to active it
-#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
-#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
-
-permalink: /archivers/:title
-gems:
- - jekyll-paginate
- - jekyll-gist
- - jemoji
-
-# Build settings
-paginate: 5
-paginate_path: "page:num"
-
-highlighter: rouge
-markdown: kramdown
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Asia/Seoul
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
 
 kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: rookieyun
+  avatar: leonids-logo.png
+  job: "A jekyll theme"
+  bio: "A simple and awesome blog theme powered by jekyll."
+  email: yunsangq@gmail.com
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  google: 
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: yunsangq
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: yunsangq
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
