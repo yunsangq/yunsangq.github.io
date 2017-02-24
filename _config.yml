@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: rookieyun의 개발 블로그
+title: rookieyun
 email: yunsangq@gmail.com
-description: test.
+description: 
 url: https://yunsangq.github.io
 
 
@@ -34,11 +34,11 @@ kramdown:
 #
 owner:
   name: rookieyun
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  avatar: logo.jpg
+  job: "University of Science and Technology(UST) - Electronics and Telecommunications Research Institute(ETRI) master's course"
+  bio: "What's on your mind?"
   email: yunsangq@gmail.com
-  disqus-shortname:
+  disqus-shortname: yunsangq
   twitter: #username
   facebook: #username
   google: 
@@ -67,3 +67,4 @@ owner:
   flickr: #username
   500px: #username
   codepen: #username
+  
