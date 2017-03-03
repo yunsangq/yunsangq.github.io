@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 16.04(64bit), OpenCV 3.2.0 Install"
+title: "Ubuntu 16.04(64bit), OpenCV 3.2.0 master Install"
 date:   2017-02-24
 excerpt: "Ubuntu에서 OpenCV를 사용하기 위한 설치방법이다. Python 2.7을 사용한다."
 categories: [Develop Environment]
@@ -59,4 +59,4 @@ $ python
 >>> cv2.__version__
 {% endhighlight %}
 
-출력된 화면에 '3.2.0'이라 나타나면 설치 확인을 할 수 있다.
+Github에서 clone한 master를 사용하기에 출력된 화면에 '3.2.0-dev'이라 나타나면 설치 확인을 할 수 있다.
