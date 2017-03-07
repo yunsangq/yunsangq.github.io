@@ -6,6 +6,12 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }} {% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="rookieyun blog">
+  <meta property="og:description" content="열정이 없구나 실력도 없으면서">
+  <meta property="og:image" content="https://yunsangq.github.io/img/logo.jpg">
+  <meta property="og:url" content="https://yunsangq.github.io">
+
   <!-- CSS files -->
   <link rel="stylesheet" href="{{ site.url }}/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ site.url }}/css/main.css">
