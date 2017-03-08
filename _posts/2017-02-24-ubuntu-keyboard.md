@@ -22,7 +22,7 @@ sudo apt-get install fcitx-hangul
 >2. 키보드의 윈도우 버튼을 누르고 **System Settings**를 입력해서 실행한다. **Language Support**를 클릭하고 설치가 완료될때까지 기다린다.
 3. **Language Support**에서 **Keyboard input method system**을 **fcitx**로 변경한다.
 4. 재부팅한다.
-5. 다시 키보드의 윈도우 버튼을 누르고 **System Settings**를 입력해서 실행한다. **Keyboard**를 클릭하고 **Shortcuts**를 클릭한다.
+5. 다시 키보드의 윈도우 버튼을 누르고 **System Settings**를 입력해서 실행한다. **Keyboard**를 클릭하고 **Shortcuts** -> **Typing**을 클릭한다.
 6. 설정되어있는 4가지 항목을 모두 **Disabled**로 바꾼다. 키를 입력해야하는 항목의 경우 키보드의 **backspace**버튼을 누르면 **Disabled**로 바뀐다.
 7. **Compose Key**의 **Disabled**를 길게 눌러 **Right Alt**를 선택한다.
 8. **Switch to next source**는 클릭후 키보드의 **오른쪽 Alt** 버튼을 눌러 **Multikey**로 선택한다.
