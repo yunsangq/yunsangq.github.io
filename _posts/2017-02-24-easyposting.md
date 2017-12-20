@@ -8,8 +8,9 @@ categories: [Projects]
 tags: [WPF, 삼성소프트웨어멥버십]
 comments: true
 ---
-
+<div class="youtubeWrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rZpqeB3ao_0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 삼성소프트웨어멤버십 24-1기 단기과제로 제작했던 Easy Posting이다.
 
